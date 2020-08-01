@@ -1,0 +1,16 @@
+.Login{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    color: white;
+}
+
+.center{
+    text-align: center;
+}
+
+.register{
+    text-align: center;
+    padding: 20px;
+}
+
