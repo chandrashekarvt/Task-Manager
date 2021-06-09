@@ -1,6 +1,7 @@
 # Task-Manager
 
-A Django powered web application with CRUD functionality using Django Rest API backed by an SQL database which allows filtering tasks based on priority, type of task, date/time.<br />
+A Django powered web application with CRUD functionality using Django Rest API backed by an SQL database. <br />
+Includes features like User Authentication using JWT and filtering tasks based on priority, type of task, date/time. <br/>
 A React.js front-end to allow users to experience smooth navigation between pages.<br />
 
 Technologies used: Django REST Framework, React.js, SQL.<br />
@@ -15,7 +16,7 @@ Step 2: Run the backend server using the following steps :<br />
   - After installation of all the requirements run ```python3 manage.py runserver```<br />
   <br />
 Step 3: Navigate to Task-Manager/Front-end and follow the steps (Assuming you have installed npm and node in your system)<br />
-- Run npm install package.json<br />
+- Run ```npm install package.json```<br />
 - Run npm start<br />
 <br />
 
