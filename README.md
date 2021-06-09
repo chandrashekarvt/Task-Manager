@@ -17,6 +17,8 @@ Step 2: Run the backend server using the following steps :<br />
 Step 3: Navigate to Task-Manager/Front-end and follow the steps (Assuming you have installed npm and node in your system)<br />
 - Run npm install package.json<br />
 - Run npm start<br />
+<br />
+
 Step 4: Visit http://localhost:3000/ in your local browser<br />
 <br />
 
