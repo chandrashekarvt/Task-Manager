@@ -7,7 +7,7 @@ Technologies used: Django REST Framework, React.js, SQL.<br />
 
 Steps to Install:<br />
 <br />
-Step 1: Download the Zip file or run git clone https://github.com/chandrashekarvt/Task-Manager.git <br />
+Step 1: Download the Zip file or run ```python git clone https://github.com/chandrashekarvt/Task-Manager.git <br />```
 <br />
 Step 2: Run the backend server using the following steps :<br />
   - Navigate to Task-Manager/Back-end and create a virtual environment<br />
