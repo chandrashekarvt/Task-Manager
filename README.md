@@ -26,9 +26,4 @@ Step 4: Visit ```http://localhost:3000/``` in your local browser<br />
 <br/>
 
 Demo Video:  <br/>
-https://user-images.githubusercontent.com/57014454/121320365-b9ec1b80-c92a-11eb-8824-c9320a78dc2d.mp4
-
-
-
-
 ![GitHub Movie](https://user-images.githubusercontent.com/57014454/121322649-ca04fa80-c92c-11eb-9a94-a4718b66f1d0.gif)
