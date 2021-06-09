@@ -1,8 +1,8 @@
 # Task-Manager
 
--A Django powered web application with CRUD functionality using Django Rest API backed by an SQL database. <br />
--Includes features like User Authentication using JWT and filtering tasks based on priority, type of task, date/time. <br/>
--A React.js front-end to allow users to experience smooth navigation between pages.<br />
+- A Django powered web application with CRUD functionality using Django Rest API backed by an SQL database. <br />
+- Includes features like User Authentication using JWT and filtering tasks based on priority, type of task, date/time. <br/>
+- A React.js front-end to allow users to experience smooth navigation between pages.<br />
 
 Technologies used: Django REST Framework, React.js, SQL.<br />
 
