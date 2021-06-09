@@ -22,7 +22,7 @@ Step 3: Navigate to Task-Manager/Front-end and follow the steps (Assuming you ha
 
 Step 3: Navigate to Task-Manager/Front-end and follow the steps (Assuming you have installed npm and node in your system) :<br />
   - Navigate to Task-Manager/Back-end and create a virtual environment<br />
-  - Run ```pip3 install -r requirements.txt```<br />
+  - Run ```npm install package.json```<br />
   - After installation of all the requirements run ```python3 manage.py runserver```<br />
   <br />
 
