@@ -20,6 +20,12 @@ Step 3: Navigate to Task-Manager/Front-end and follow the steps (Assuming you ha
   - Run ``` npm start ```<br />
 <br />
 
+Step 3: Navigate to Task-Manager/Front-end and follow the steps (Assuming you have installed npm and node in your system) :<br />
+  - Navigate to Task-Manager/Back-end and create a virtual environment<br />
+  - Run ```pip3 install -r requirements.txt```<br />
+  - After installation of all the requirements run ```python3 manage.py runserver```<br />
+  <br />
+
 Step 4: Visit ```http://localhost:3000/``` in your local browser<br />
 <br />
 
