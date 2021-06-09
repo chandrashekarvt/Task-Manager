@@ -11,15 +11,15 @@ Step 1: Download the Zip file or run ```git clone https://github.com/chandrashek
 <br />
 Step 2: Run the backend server using the following steps :<br />
   - Navigate to Task-Manager/Back-end and create a virtual environment<br />
-  - Run pip3 install -r requirements.txt<br />
-  - After installation of all the requirements run python3 manage.py runserver<br />
+  - Run ```pip3 install -r requirements.txt```<br />
+  - After installation of all the requirements run ```python3 manage.py runserver```<br />
   <br />
 Step 3: Navigate to Task-Manager/Front-end and follow the steps (Assuming you have installed npm and node in your system)<br />
-- Run npm install package.json<br />
-- Run npm start<br />
+- Run ```npm install package.json```<br />
+- Run ```npm start```<br />
 <br />
 
-Step 4: Visit http://localhost:3000/ in your local browser<br />
+Step 4: Visit ```http://localhost:3000/``` in your local browser<br />
 <br />
 
 <img width="1440" alt="Screenshot 2021-06-09 at 1 33 30 PM" src="https://user-images.githubusercontent.com/57014454/121320222-94f7a880-c92a-11eb-85aa-9b6b9c50abe8.png">
