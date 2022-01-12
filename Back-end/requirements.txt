@@ -65,7 +65,7 @@ parsel==1.5.2
 passlib==1.7.2
 pathtools==0.1.2
 Pillow==8.2.0
-pipenv==2020.6.2
+pipenv==2022.1.8
 Protego==0.1.16
 protobuf==3.6.1
 psycopg2==2.8.5
